@@ -1,1 +1,1 @@
-# IITH_labs
+# IIITH_labs
